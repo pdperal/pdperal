@@ -18,9 +18,5 @@ I'm an analysis and systems development student currently working mostly with .N
 - AWS RDS
 - Javascript
 
-<a href="https://github-readme-stats.vercel.app/api?username=pdperal&show_icons=true&count_private=true&layout=compact&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdperal&show_icons=true&count_private=true&layout=compact&hide=stars" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pdperal&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdperal&layout=compact&langs_count=8" />
-</a>
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdperal&show_icons=true&count_private=true&layout=compact&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdperal&layout=compact&langs_count=8)
