@@ -2,7 +2,7 @@
 
 I'm an analysis and systems development student currently working mostly with .NET and C# as a backend developer for [Interprocess Tecnologia em Saúde](https://www.interprocess.com.br/).
 
-[![Linkedin: pedroperal](https://img.shields.io/badge/-pedroperal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)]
+[![Linkedin: pedroperal](https://img.shields.io/badge/-pedroperal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)](https://www.linkedin.com/in/pedroperal/)
 
 ### What i'm focused right now:
 
