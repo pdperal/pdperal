@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Pedro 👋
 
-<!--
-**pdperal/pdperal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an analysis and systems development student currently working mostly with .NET and C# as a backend developer for [Interprocess Tecnologia em Saúde](https://www.interprocess.com.br/).
 
-Here are some ideas to get you started:
+![Linkedin: pedroperal](https://img.shields.io/badge/-PedroPeral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What i'm focused right now:
+
+- Improve my skills in the .NET plataform with C#
+- Teach myself some microservices architecture and asynchronous communication
+- Learning Vue.js as a framework for web development
+
+### Tecnologies i'm familiar with:
+- C#
+- .NET
+- SQL Server
+- Docker/Docker-compose
+- AWS RDS
+- Javascript
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdperal&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdperal)
