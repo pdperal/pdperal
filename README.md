@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro 👋
 
-I'm an analysis and systems development student currently working mostly with .NET and C# as a backend developer for [Interprocess Tecnologia em Saúde](https://www.interprocess.com.br/).
+I'm an analysis and systems development student currently working mostly with .NET as a backend developer for [BTG Pactual](https://www.btgpactual.com/).
 
 [![Linkedin: pedroperal](https://img.shields.io/badge/-pedroperal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)](https://www.linkedin.com/in/pedroperal/)
 
