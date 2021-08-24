@@ -3,6 +3,7 @@
 I'm an analysis and systems development student currently working mostly with .NET as a backend developer for [BTG Pactual](https://www.btgpactual.com/).
 
 [![Linkedin: pedroperal](https://img.shields.io/badge/-pedroperal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)](https://www.linkedin.com/in/pedroperal/)
+[![](https://vistr.dev/badge?repo=pdperal.pdperal&corners=square)](https://github.com/Elfocrash/vistr.dev)
 
 ### What i'm focused right now:
 
