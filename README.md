@@ -1,23 +1,25 @@
-### Hi, I'm Pedro 👋
+### Prazer, Pedro! 👋
 
-I'm an analysis and systems development student currently working mostly with .NET as a backend engineer for [BTG Pactual](https://www.btgpactual.com/).
+Graduando em análise e desenvolvimento de sistemas, possuo com +3 anos de experiência em desenvolvimento de software de alta qualidade e performance. Possuo habilidades analíticas e capacidade de resolução de problemas. Experiência em liderança técnica de pequeno time de desenvolvedores, focando na entrega da solução final com excelência. Perfil proativo e que utiliza dos desafios como maior motivação.
 
-[![Linkedin: pedroperal](https://img.shields.io/badge/-pedroperal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroperal/)](https://www.linkedin.com/in/pedroperal/)
-[![](https://vistr.dev/badge?repo=pdperal.pdperal&corners=square)]
+Aqui você irá encontrar alguns projetos pessoais e testes técnicos para vagas :D
 
-### What i'm focused right now:
+### Meu foco nesse momento:
 
-- Improve my skills in the .NET plataform with C#
-- Teach myself some microservices architecture and asynchronous communication
-- Learning Vue.js as a framework for web development
+- Continuar evoluindo minhas habilidades e conhecimentos em .NET/C#
+- Me aventurar ainda mais no mundo da arquitetura distribuída
+- Estudar (muito rs) sobre arquitetura de software, DDD e algorítmos e estrutura de dados, especificamente com o [Elemar Jr](https://elemarjr.com/para-voce/)
 
-### Tecnologies i'm familiar with:
+
+### Tecnologias com conhecimento prático
 - C#
-- .NET
-- SQL Server
+- .NET (3.1, 5, 6, 7)
+- SQL - SQL Server, PostgreSQL, MySQL
+- NoSQL - DynamoDB, MongoDB
+- Cache - Redis
 - Docker/Docker-compose
-- AWS RDS
-- Javascript
+- AWS - RDS, CF, S3, SQS
+- RabbitMQ
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdperal&show_icons=true&count_private=true&layout=compact&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdperal&layout=compact&langs_count=8)
